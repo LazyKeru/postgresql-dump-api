@@ -1,0 +1,26 @@
+{
+  "name": "postgresql-dump-api",
+  "version": "1.0.0",
+  "description": "Node.js RESTfull API for postgresql dump. Will be used as a worker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyKeru/postgresql-dump-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazyKeru/postgresql-dump-api/issues"
+  },
+  "homepage": "https://github.com/LazyKeru/postgresql-dump-api#readme",
+  "dependencies": {
+    "@getvim/execute": "^1.0.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
