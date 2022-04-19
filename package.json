@@ -19,6 +19,7 @@
   "homepage": "https://github.com/LazyKeru/postgresql-dump-api#readme",
   "dependencies": {
     "@getvim/execute": "^1.0.0",
+    "body-parser": "^1.20.0",
     "dotenv": "^16.0.0",
     "express": "^4.17.3"
   },
